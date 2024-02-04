@@ -2,7 +2,6 @@
 
 Sou estudante e atualmente estou cursando o técnico em Informática. Estou estudando JavaScript, React, entre outras tecnologias. Estou em busca de oportunidades de emprego na área de programação Front - End, ansioso para demonstrar meus conhecimentos e sempre empenhado em aprender mais.
 
-
 ##
 <h3>Tecnologias:</h3>
 <div style="display: inline_block"><br>
