@@ -1,6 +1,8 @@
 <h1>Olá, sou Pablo Santos</h1>
 
-Sou estudante e atualmente estou cursando o técnico em Informática. Estou estudando JavaScript, React, entre outras tecnologias. Estou em busca de oportunidades de emprego na área de programação Front - End, ansioso para demonstrar meus conhecimentos e sempre empenhado em aprender mais.
+Atualmente, estou estudando e fazendo o curso técnico em Informática integrado ao Ensino Médio na Escola E.E.E.P Professora Luiza de Teodoro Vieira.
+
+Estou me dedicando aos estudos de JavaScript e React, além de realizar cursos na DIO. Busco oportunidades de emprego na área de Front-End, ansioso para aplicar e aprimorar meus conhecimentos.
 
 ##
 <h3>Tecnologias:</h3>
