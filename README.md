@@ -10,11 +10,12 @@ Atualmente, estou cursando o curso técnico em Informática integrado ao Ensino 
     <img align="center" title="HTML" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" title="CSS" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" title="JAVASCRIPT" alt="JAVASCRIPT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" title="ARDUINO" alt="ARDUINO" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" title="ARDUINO" alt="ARDUINO" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" title="JAVA" alt="JAVA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" title="PHP" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" title="GIT" alt="GIT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" title="GITHUB" alt="GITHUB" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
+    <img align="center" title="GITHUB" alt="GITHUB" height="40" width="50" src="https://skillicons.dev/icons?i=github" />
     <img align="center" title="ARDUINO" alt="ARDUINO" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+    
 
   
 </div>
@@ -25,5 +26,6 @@ Atualmente, estou cursando o curso técnico em Informática integrado ao Ensino 
     <a href = "mailto:pablomoreirasantos.hp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/pablo-santos-25773025b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
     <a href="https://wa.me/558592822527?text=Olá!,%20eu%20vim%20do%20GitHub" target="_blank"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" alt="whatsapp"/></a>
+    
 </div>
 
