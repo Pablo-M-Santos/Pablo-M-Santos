@@ -11,10 +11,11 @@ Atualmente, estou cursando o curso técnico em Informática integrado ao Ensino 
     <img align="center" title="CSS" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" title="JAVASCRIPT" alt="JAVASCRIPT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" title="JAVA" alt="JAVA" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" title="PYTHON" alt="PYTHON" height="40" width="50" src="https://skillicons.dev/icons?i=py">
+    <img align="center" title="VUE" alt="VUE" height="40" width="50" src="https://skillicons.dev/icons?i=vue">
     <img align="center" title="PHP" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" title="GIT" alt="GIT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" title="GITHUB" alt="GITHUB" height="40" width="50" src="https://skillicons.dev/icons?i=github" />
-    <img align="center" title="ARDUINO" alt="ARDUINO" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
     
 
   
