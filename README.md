@@ -11,13 +11,14 @@ Atualmente, estou cursando o curso técnico em Informática integrado ao Ensino 
     <img align="center" title="CSS" alt="CSS" height="40" width="50" src="https://skillicons.dev/icons?i=css">
     <img align="center" title="JAVASCRIPT" alt="JAVASCRIPT" height="40" width="50" src="https://skillicons.dev/icons?i=javascript">
     <img align="center" title="JAVA" alt="JAVA" height="40" width="50" src="https://skillicons.dev/icons?i=java">
+    <img align="center" title="VUE" alt="VUE" height="40" width="50" src="https://skillicons.dev/icons?i=vue">
+    <img align="center" title="PYTHON" alt="PYTHON" height="40" width="50" src="https://skillicons.dev/icons?i=py">
     <img align="center" title="PHP" alt="PHP" height="40" width="50" src="https://skillicons.dev/icons?i=php">
     <img align="center" title="MYSQL" alt="MYSQL" height="40" width="50" src="https://skillicons.dev/icons?i=mysql">
     <img align="center" title="FIGMA" alt="FIGMA" height="40" width="50" src="https://skillicons.dev/icons?i=figma">
-    <img align="center" title="PYTHON" alt="PYTHON" height="40" width="50" src="https://skillicons.dev/icons?i=py">
-    <img align="center" title="VUE" alt="VUE" height="40" width="50" src="https://skillicons.dev/icons?i=vue">
     <img align="center" title="GIT" alt="GIT" height="40" width="50" src="https://skillicons.dev/icons?i=git">
     <img align="center" title="GITHUB" alt="GITHUB" height="40" width="50" src="https://skillicons.dev/icons?i=github" />
+    <img align="center" title="ARDUINO" alt="ARDUINO" height="40" width="50" src="https://skillicons.dev/icons?i=arduino">
     
 
   
