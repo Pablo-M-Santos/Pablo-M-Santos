@@ -2,7 +2,7 @@
 
 ##
 
-Atualmente, sou estagiário na WDA Tecnologia & Inovação, onde tenho a oportunidade de aplicar e expandir meus conhecimentos em Vue.js e Java em desenvolvimento wev. Tenho focado meus estudos em React, Nuxt e TypeScript, buscando aprimorar minhas habilidades e criar projetos que refletem meu aprendizado. Estou sempre explorando novas ferramentas e práticas para me tornar um desenvolvedor mais completo e preparado para desafios futuros.
+Atualmente, sou estagiário na WDA Tecnologia & Inovação, onde tenho a oportunidade de aplicar e expandir meus conhecimentos em Vue.js e Java em desenvolvimento web. Tenho focado meus estudos em React, Nuxt e TypeScript, buscando aprimorar minhas habilidades e criar projetos que refletem meu aprendizado. Estou sempre explorando novas ferramentas e práticas para me tornar um desenvolvedor mais completo e preparado para desafios futuros.
 
 ## Tecnologias
 
