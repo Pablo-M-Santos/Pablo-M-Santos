@@ -17,8 +17,6 @@ Atualmente, sou estagiário na WDA Tecnologia & Inovação, onde tenho a oportun
     <img align="center" title="Postman" alt="Postman" height="40" width="50" src="https://skillicons.dev/icons?i=postman">
     <img align="center" title="Spring" alt="Spring" height="40" width="50" src="https://skillicons.dev/icons?i=spring">
     <img align="center" title="Docker" alt="Docker" height="40" width="50" src="https://skillicons.dev/icons?i=docker">
-    <img align="center" title="PHP" alt="PHP" height="40" width="50" src="https://skillicons.dev/icons?i=php">
-    <img align="center" title="Python" alt="Python" height="40" width="50" src="https://skillicons.dev/icons?i=py">  
 </div>
 
 ## Contato
