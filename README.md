@@ -41,7 +41,7 @@ Sistema de gerenciamento de locadora de livros, permitindo o controle de livros,
 
 ### [Eletronic Arts](https://eletronic-arts.netlify.app/)
 A Eletronic Arts é tipo a loja dos sonhos para quem curte games, com um monte de consoles, PCs, acessórios e jogos de todos os tipos!
-- **Tecnologias**: Vue.js, Vuetify, PHP 
+- **Tecnologias**: HTML, CSS, JavaScript, Bootstrap
 - **Repositório**: [GitHub](https://github.com/Pablo-M-Santos/Eletronic-Arts)
 - **Acessar o Projeto**: [Ver Projeto](https://eletronic-arts.netlify.app/)
 
