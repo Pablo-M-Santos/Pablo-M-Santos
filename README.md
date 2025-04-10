@@ -24,7 +24,6 @@ Atualmente, sou estagiário na WDA Tecnologia & Inovação, onde tenho a oportun
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-M-santos&layout=compact&langs_count=20&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-M-santos&theme=tokyonight" />
 </div>
 
 <br>
