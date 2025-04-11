@@ -15,7 +15,6 @@ Atualmente, sou estagiário na WDA Tecnologia & Inovação, onde tenho a oportun
     <img align="center" title="Java" alt="Java" height="40" width="50" src="https://skillicons.dev/icons?i=java">
     <img align="center" title="Spring" alt="Spring" height="40" width="50" src="https://skillicons.dev/icons?i=spring">
     <img align="center" title="PHP" alt="PHP" height="40" width="50" src="https://skillicons.dev/icons?i=php">
-    <img align="center" title="Laravel" alt="Laravel" height="40" width="50" src="https://skillicons.dev/icons?i=laravel">
     <img align="center" title="Nodejs" alt="Nodejs" height="40" width="50" src="https://skillicons.dev/icons?i=nodejs">
     <img align="center" title="Docker" alt="Docker" height="40" width="50" src="https://skillicons.dev/icons?i=docker">
 </div>
