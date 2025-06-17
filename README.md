@@ -18,7 +18,7 @@ Tenho grande interesse em evoluir continuamente como desenvolvedor, aprendendo n
 
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-M-Santos&layout=compact&langs_count=20&theme=github_dark&custom_title=Linguagens%20mais%20usadas" alt="Github top linguagens"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pablo-M-Santos&theme=github_dark" alt="Github estatísticas"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pablo-M-Santos&theme=github_dark" alt="Github estatísticas"/> -->
 </div>
 
   
