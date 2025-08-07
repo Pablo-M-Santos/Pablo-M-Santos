@@ -1,13 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0284C7&height=180&section=header&text=Pablo%20Moreira%20Santos&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Full%20-%20Stack&descAlignY=50&descAlign=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0284C7&height=180&section=header&text=Pablo%20Moreira%20Santos&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Back-End&descAlignY=50&descAlign=62"/>
 
----
-Atualmente atuo como Desenvolvedor Júnior Full-Stack na WDA Tecnologia & Inovação, com foco principal em Vue.js no frontend e Java com Spring Boot no backend. Participo ativamente do desenvolvimento de aplicações web, integrando interfaces modernas com APIs RESTful, seguindo boas práticas de arquitetura de software, versionamento com Git e desenvolvimento colaborativo.
+## 👨‍💻 Sobre mim  
 
-Tenho grande interesse em evoluir continuamente como desenvolvedor, aprendendo novas tecnologias e me aprimorando tanto na parte de frontend quanto backend. Estou sempre em busca de desafios que me permitam crescer profissionalmente e contribuir de forma significativa para os projetos em que atuo.
+Atualmente atuo como **Desenvolvedor Júnior Full-Stack** na **WDA Tecnologia & Inovação**, com foco principal em **Java (Spring Boot)** no back-end e **Vue.js** no front-end.  
+
+💻 Trabalho no desenvolvimento e manutenção de aplicações web, unindo interfaces modernas a **APIs RESTful**, seguindo boas práticas de arquitetura, versionamento com Git e metodologias ágeis.  
+🚀 Busco evolução contínua, me desafiando em novas tecnologias e aprofundando meus conhecimentos em **AWS**, **Kafka** e **boas práticas de código**.  
+🤝 Valorizo trabalho em equipe, colaboração e a entrega de soluções que gerem impacto real.  
+
+
 <div align="center"><br>
-    <img align="center" title="Vue" alt="Vue" height="40" width="50" src="https://skillicons.dev/icons?i=vue">
     <img align="center" title="Java" alt="Java" height="40" width="50" src="https://skillicons.dev/icons?i=java">
     <img align="center" title="Spring" alt="Spring" height="40" width="50" src="https://skillicons.dev/icons?i=spring">
+    <img align="center" title="Vue" alt="Vue" height="40" width="50" src="https://skillicons.dev/icons?i=vue">
     <img align="center" title="TypeScript" alt="TypeScript" height="40" width="50" src="https://skillicons.dev/icons?i=ts">
     <img align="center" title="Git" alt="Git" height="40" width="50" src="https://skillicons.dev/icons?i=git">
     <img align="center" title="Postman" alt="Postman" height="40" width="50" src="https://skillicons.dev/icons?i=postman">
