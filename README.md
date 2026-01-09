@@ -19,21 +19,9 @@ Atualmente atuo como **Desenvolvedor Júnior Full-Stack** na **WDA Tecnologia & 
     <img align="center" title="Docker" alt="Docker" height="40" width="50" src="https://skillicons.dev/icons?i=docker">
 </div>
 
----
 
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-M-Santos&layout=compact&langs_count=20&theme=github_dark&custom_title=Linguagens%20mais%20usadas" alt="Github top linguagens"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pablo-M-Santos&theme=github_dark" alt="Github estatísticas"/> -->
-</div>
 
   
-
-
-<br>
-
-###
----
-
 
 ## Contato
 <div >
