@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0284C7&height=180&section=header&text=Pablo%20Moreira%20Santos&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Back-End&descAlignY=50&descAlign=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0284C7&height=180&section=header&text=Pablo%20Moreira%20Santos&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Full-Stack&descAlignY=50&descAlign=62"/>
 
 ## 👨‍💻 Sobre mim  
 
