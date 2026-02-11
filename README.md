@@ -13,6 +13,7 @@ Atualmente atuo como **Desenvolvedor Júnior Full-Stack** na **WDA Tecnologia & 
     <img align="center" title="Java" alt="Java" height="40" width="50" src="https://skillicons.dev/icons?i=java">
     <img align="center" title="Spring" alt="Spring" height="40" width="50" src="https://skillicons.dev/icons?i=spring">
     <img align="center" title="Vue" alt="Vue" height="40" width="50" src="https://skillicons.dev/icons?i=vue">
+    <img align="center" title="Nuxt" alt="Vue" height="40" width="50" src="https://skillicons.dev/icons?i=nuxt">
     <img align="center" title="TypeScript" alt="TypeScript" height="40" width="50" src="https://skillicons.dev/icons?i=ts">
     <img align="center" title="Git" alt="Git" height="40" width="50" src="https://skillicons.dev/icons?i=git">
     <img align="center" title="Postman" alt="Postman" height="40" width="50" src="https://skillicons.dev/icons?i=postman">
