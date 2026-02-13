@@ -1,13 +1,23 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0284C7&height=180&section=header&text=Pablo%20Moreira%20Santos&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Full-Stack&descAlignY=50&descAlign=62"/>
+<div style="background-color:#020618">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=03332E&height=220&section=header&text=Pablo%20Moreira%20Santos&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full-Stack&descAlignY=60&descAlign=50"/>
+</div>
+
 
 ## 👨‍💻 Sobre mim  
 
-Atualmente atuo como **Desenvolvedor Júnior Full-Stack** na **WDA Tecnologia & Inovação**, com foco principal em **Java (Spring Boot)** no back-end e **Vue.js** no front-end.  
+Atualmente atuo como **Desenvolvedor Front-end Júnior** na **SesaTech**, com foco em **Vue.js e Nuxt.js**, desenvolvendo aplicações web modernas, performáticas e orientadas à experiência do usuário.
 
-💻 Trabalho no desenvolvimento e manutenção de aplicações web, unindo interfaces modernas a **APIs RESTful**, seguindo boas práticas de arquitetura, versionamento com Git e metodologias ágeis.  
-🚀 Busco evolução contínua, me desafiando em novas tecnologias e aprofundando meus conhecimentos em **AWS**, **Kafka** e **boas práticas de código**.  
-🤝 Valorizo trabalho em equipe, colaboração e a entrega de soluções que gerem impacto real.  
+Tenho experiência sólida em **Java com Spring Boot** no back-end, atuando na construção de APIs REST e integração com bancos de dados relacionais.
 
+🚀 Atuação em projetos com grande volume de dados, aplicando:
+- Otimização de performance  
+- Gerenciamento de estado com Pinia  
+- Controle eficiente de loading  
+- Estratégias de cache  
+
+💡 Busco sempre entender o problema de negócio antes de escrever código, priorizando organização, escalabilidade e boas práticas.
+
+🤝 Experiência em ambientes ágeis (Scrum/Kanban), colaboração em equipe e versionamento com Git.
 
 <div align="center"><br>
     <img align="center" title="Java" alt="Java" height="40" width="50" src="https://skillicons.dev/icons?i=java">
@@ -20,9 +30,6 @@ Atualmente atuo como **Desenvolvedor Júnior Full-Stack** na **WDA Tecnologia & 
     <img align="center" title="Docker" alt="Docker" height="40" width="50" src="https://skillicons.dev/icons?i=docker">
 </div>
 
-
-
-  
 
 ## Contato
 <div >
