@@ -9,11 +9,7 @@ Atualmente atuo como **Desenvolvedor Front-end Júnior** na **SesaTech**, com fo
 
 Tenho experiência sólida em **Java com Spring Boot** no back-end, atuando na construção de APIs REST e integração com bancos de dados relacionais.
 
-🚀 Atuação em projetos com grande volume de dados, aplicando:
-- Otimização de performance  
-- Gerenciamento de estado com Pinia  
-- Controle eficiente de loading  
-- Estratégias de cache  
+
 
 💡 Busco sempre entender o problema de negócio antes de escrever código, priorizando organização, escalabilidade e boas práticas.
 
