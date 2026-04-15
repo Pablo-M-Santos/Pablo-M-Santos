@@ -15,16 +15,16 @@ Tenho experiência sólida em **Java com Spring Boot** no back-end, atuando na c
 
 🤝 Experiência em ambientes ágeis (Scrum/Kanban), colaboração em equipe e versionamento com Git.
 
-<div align="center"><br>
-    <img align="center" title="Java" alt="Java" height="40" width="50" src="https://skillicons.dev/icons?i=java">
-    <img align="center" title="Spring" alt="Spring" height="40" width="50" src="https://skillicons.dev/icons?i=spring">
-    <img align="center" title="Vue" alt="Vue" height="40" width="50" src="https://skillicons.dev/icons?i=vue">
-    <img align="center" title="Nuxt" alt="Vue" height="40" width="50" src="https://skillicons.dev/icons?i=nuxt">
-    <img align="center" title="TypeScript" alt="TypeScript" height="40" width="50" src="https://skillicons.dev/icons?i=ts">
-    <img align="center" title="Git" alt="Git" height="40" width="50" src="https://skillicons.dev/icons?i=git">
-    <img align="center" title="Postman" alt="Postman" height="40" width="50" src="https://skillicons.dev/icons?i=postman">
-    <img align="center" title="Docker" alt="Docker" height="40" width="50" src="https://skillicons.dev/icons?i=docker">
-</div>
+<p align="center">
+  <img title="Java" alt="Java" height="40" src="https://skillicons.dev/icons?i=java">
+  <img title="Spring" alt="Spring" height="40" src="https://skillicons.dev/icons?i=spring">
+  <img title="Vue" alt="Vue" height="40" src="https://skillicons.dev/icons?i=vue">
+  <img title="Nuxt" alt="Nuxt" height="40" src="https://skillicons.dev/icons?i=nuxt">
+  <img title="TypeScript" alt="TypeScript" height="40" src="https://skillicons.dev/icons?i=ts">
+  <img title="Git" alt="Git" height="40" src="https://skillicons.dev/icons?i=git">
+  <img title="Postman" alt="Postman" height="40" src="https://skillicons.dev/icons?i=postman">
+  <img title="Docker" alt="Docker" height="40" src="https://skillicons.dev/icons?i=docker">
+</p>
 
 
 ## Contato
